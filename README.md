@@ -11,7 +11,7 @@
 2. 使用 7-Zip 解压 `game.7z.001` 到当前仓库根目录。只需要解压 `.001`，7-Zip 会自动读取 `.002`。
 3. 解压完成后，根目录下应出现 `game/` 文件夹，并能看到 `game\FinalCombat.exe`。
 4. 安装 Python 3.10 或更高版本。启动器会优先查找 `C:\python3.13.13\python.exe`，找不到时使用系统 `PATH` 中的 `python`。
-5. 双击 `Start_FinalCombat_Local.bat`。
+5. 双击 `FinalCombatLocalLauncher.exe`。
 6. 在窗口左侧点击 `Start local single-player`。
 7. 等待本地服务启动，游戏窗口会自动打开并进入单人地图。
 

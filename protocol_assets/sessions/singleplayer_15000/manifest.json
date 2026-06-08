@@ -1,0 +1,48 @@
+{
+  "schema": "fcdev.session.v1",
+  "session": "singleplayer_15000",
+  "flow": "game-cfb-plain",
+  "imported_at": "2026-06-08T01:38:41+00:00",
+  "source_sha1": "26d02f46d7154f0df79cc811531a6e748d6dc333",
+  "counts": {
+    "frame_count": 81,
+    "client_frame_count": 41,
+    "server_frame_count": 40,
+    "opcode_count": 11,
+    "rpc_count": 16,
+    "opcodes": [
+      "0x00",
+      "0x01",
+      "0x03",
+      "0x0f",
+      "0x15",
+      "0x18",
+      "0x1b",
+      "0x1c",
+      "0x1e",
+      "0x48",
+      "0x55"
+    ],
+    "rpc_methods": [
+      "character_get",
+      "character_list",
+      "email_list",
+      "expire_bubble",
+      "friend_group_list",
+      "friends_list",
+      "get_compete_buy_time",
+      "get_module_status",
+      "keep_stay",
+      "online_award",
+      "personal_simple",
+      "rank_list",
+      "server_remark",
+      "stage_quit",
+      "storage_list",
+      "team_info"
+    ]
+  },
+  "server_group_count": 31,
+  "template_group_count": 31,
+  "release_sanitized": true
+}

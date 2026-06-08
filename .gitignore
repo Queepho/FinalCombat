@@ -1,0 +1,13 @@
+launcher_runtime.log
+game/logs/
+game/pictures/
+game/*.dmp
+game/avital/axxalog
+protocol_docs/captures/
+protocol_docs/mitm_captures/
+protocol_docs/**/*.bin
+protocol_docs/**/*.cfb_plain.bin
+__pycache__/
+*.pyc
+*.log
+*.dmp

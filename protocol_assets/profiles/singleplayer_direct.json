@@ -1,0 +1,22 @@
+{
+  "schema": "fcdev.profile.v1",
+  "name": "singleplayer_direct",
+  "description": "Local single-player direct-to-map baseline",
+  "created_at": "2026-06-08T01:52:16+00:00",
+  "sessions": {
+    "game": "singleplayer_15000",
+    "channel": "singleplayer_9024"
+  },
+  "launch": {
+    "server_name": "FinalCombat",
+    "game_replay_patch_host": "127.0.0.1",
+    "game_replay_cfb_auto_key": true,
+    "start_channel": true,
+    "channel_replay_mode": "direct",
+    "channel_direct_auto_start_delay": 0.1
+  },
+  "notes": [
+    "This profile stores local stub launch defaults only.",
+    "Account and auth ticket are intentionally kept outside the profile."
+  ]
+}

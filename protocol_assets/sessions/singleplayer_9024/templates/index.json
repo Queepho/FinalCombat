@@ -1,0 +1,234 @@
+[
+  {
+    "session": "singleplayer_9024",
+    "flow": "channel",
+    "group": "server_group_after_client_0001",
+    "client_frame": 1,
+    "frame_count": 5,
+    "path": "sessions\\singleplayer_9024\\templates\\server_group_after_client_0001"
+  },
+  {
+    "session": "singleplayer_9024",
+    "flow": "channel",
+    "group": "server_group_after_client_0002",
+    "client_frame": 2,
+    "frame_count": 3,
+    "path": "sessions\\singleplayer_9024\\templates\\server_group_after_client_0002"
+  },
+  {
+    "session": "singleplayer_9024",
+    "flow": "channel",
+    "group": "server_group_after_client_0003",
+    "client_frame": 3,
+    "frame_count": 1,
+    "path": "sessions\\singleplayer_9024\\templates\\server_group_after_client_0003"
+  },
+  {
+    "session": "singleplayer_9024",
+    "flow": "channel",
+    "group": "server_group_after_client_0004",
+    "client_frame": 4,
+    "frame_count": 9,
+    "path": "sessions\\singleplayer_9024\\templates\\server_group_after_client_0004"
+  },
+  {
+    "session": "singleplayer_9024",
+    "flow": "channel",
+    "group": "server_group_after_client_0005",
+    "client_frame": 5,
+    "frame_count": 2,
+    "path": "sessions\\singleplayer_9024\\templates\\server_group_after_client_0005"
+  },
+  {
+    "session": "singleplayer_9024",
+    "flow": "channel",
+    "group": "server_group_after_client_0006",
+    "client_frame": 6,
+    "frame_count": 7,
+    "path": "sessions\\singleplayer_9024\\templates\\server_group_after_client_0006"
+  },
+  {
+    "session": "singleplayer_9024",
+    "flow": "channel",
+    "group": "server_group_after_client_0011",
+    "client_frame": 11,
+    "frame_count": 19,
+    "path": "sessions\\singleplayer_9024\\templates\\server_group_after_client_0011"
+  },
+  {
+    "session": "singleplayer_9024",
+    "flow": "channel",
+    "group": "server_group_after_client_0013",
+    "client_frame": 13,
+    "frame_count": 4,
+    "path": "sessions\\singleplayer_9024\\templates\\server_group_after_client_0013"
+  },
+  {
+    "session": "singleplayer_9024",
+    "flow": "channel",
+    "group": "server_group_after_client_0014",
+    "client_frame": 14,
+    "frame_count": 4,
+    "path": "sessions\\singleplayer_9024\\templates\\server_group_after_client_0014"
+  },
+  {
+    "session": "singleplayer_9024",
+    "flow": "channel",
+    "group": "server_group_after_client_0015",
+    "client_frame": 15,
+    "frame_count": 8,
+    "path": "sessions\\singleplayer_9024\\templates\\server_group_after_client_0015"
+  },
+  {
+    "session": "singleplayer_9024",
+    "flow": "channel",
+    "group": "server_group_after_client_0016",
+    "client_frame": 16,
+    "frame_count": 10,
+    "path": "sessions\\singleplayer_9024\\templates\\server_group_after_client_0016"
+  },
+  {
+    "session": "singleplayer_9024",
+    "flow": "channel",
+    "group": "server_group_after_client_0017",
+    "client_frame": 17,
+    "frame_count": 10,
+    "path": "sessions\\singleplayer_9024\\templates\\server_group_after_client_0017"
+  },
+  {
+    "session": "singleplayer_9024",
+    "flow": "channel",
+    "group": "server_group_after_client_0018",
+    "client_frame": 18,
+    "frame_count": 10,
+    "path": "sessions\\singleplayer_9024\\templates\\server_group_after_client_0018"
+  },
+  {
+    "session": "singleplayer_9024",
+    "flow": "channel",
+    "group": "server_group_after_client_0019",
+    "client_frame": 19,
+    "frame_count": 10,
+    "path": "sessions\\singleplayer_9024\\templates\\server_group_after_client_0019"
+  },
+  {
+    "session": "singleplayer_9024",
+    "flow": "channel",
+    "group": "server_group_after_client_0020",
+    "client_frame": 20,
+    "frame_count": 10,
+    "path": "sessions\\singleplayer_9024\\templates\\server_group_after_client_0020"
+  },
+  {
+    "session": "singleplayer_9024",
+    "flow": "channel",
+    "group": "server_group_after_client_0021",
+    "client_frame": 21,
+    "frame_count": 10,
+    "path": "sessions\\singleplayer_9024\\templates\\server_group_after_client_0021"
+  },
+  {
+    "session": "singleplayer_9024",
+    "flow": "channel",
+    "group": "server_group_after_client_0022",
+    "client_frame": 22,
+    "frame_count": 10,
+    "path": "sessions\\singleplayer_9024\\templates\\server_group_after_client_0022"
+  },
+  {
+    "session": "singleplayer_9024",
+    "flow": "channel",
+    "group": "server_group_after_client_0023",
+    "client_frame": 23,
+    "frame_count": 10,
+    "path": "sessions\\singleplayer_9024\\templates\\server_group_after_client_0023"
+  },
+  {
+    "session": "singleplayer_9024",
+    "flow": "channel",
+    "group": "server_group_after_client_0024",
+    "client_frame": 24,
+    "frame_count": 10,
+    "path": "sessions\\singleplayer_9024\\templates\\server_group_after_client_0024"
+  },
+  {
+    "session": "singleplayer_9024",
+    "flow": "channel",
+    "group": "server_group_after_client_0025",
+    "client_frame": 25,
+    "frame_count": 10,
+    "path": "sessions\\singleplayer_9024\\templates\\server_group_after_client_0025"
+  },
+  {
+    "session": "singleplayer_9024",
+    "flow": "channel",
+    "group": "server_group_after_client_0026",
+    "client_frame": 26,
+    "frame_count": 10,
+    "path": "sessions\\singleplayer_9024\\templates\\server_group_after_client_0026"
+  },
+  {
+    "session": "singleplayer_9024",
+    "flow": "channel",
+    "group": "server_group_after_client_0027",
+    "client_frame": 27,
+    "frame_count": 10,
+    "path": "sessions\\singleplayer_9024\\templates\\server_group_after_client_0027"
+  },
+  {
+    "session": "singleplayer_9024",
+    "flow": "channel",
+    "group": "server_group_after_client_0028",
+    "client_frame": 28,
+    "frame_count": 10,
+    "path": "sessions\\singleplayer_9024\\templates\\server_group_after_client_0028"
+  },
+  {
+    "session": "singleplayer_9024",
+    "flow": "channel",
+    "group": "server_group_after_client_0029",
+    "client_frame": 29,
+    "frame_count": 10,
+    "path": "sessions\\singleplayer_9024\\templates\\server_group_after_client_0029"
+  },
+  {
+    "session": "singleplayer_9024",
+    "flow": "channel",
+    "group": "server_group_after_client_0030",
+    "client_frame": 30,
+    "frame_count": 10,
+    "path": "sessions\\singleplayer_9024\\templates\\server_group_after_client_0030"
+  },
+  {
+    "session": "singleplayer_9024",
+    "flow": "channel",
+    "group": "server_group_after_client_0031",
+    "client_frame": 31,
+    "frame_count": 10,
+    "path": "sessions\\singleplayer_9024\\templates\\server_group_after_client_0031"
+  },
+  {
+    "session": "singleplayer_9024",
+    "flow": "channel",
+    "group": "server_group_after_client_0032",
+    "client_frame": 32,
+    "frame_count": 6,
+    "path": "sessions\\singleplayer_9024\\templates\\server_group_after_client_0032"
+  },
+  {
+    "session": "singleplayer_9024",
+    "flow": "channel",
+    "group": "server_group_after_client_0033",
+    "client_frame": 33,
+    "frame_count": 6,
+    "path": "sessions\\singleplayer_9024\\templates\\server_group_after_client_0033"
+  },
+  {
+    "session": "singleplayer_9024",
+    "flow": "channel",
+    "group": "server_group_after_client_0036",
+    "client_frame": 36,
+    "frame_count": 6,
+    "path": "sessions\\singleplayer_9024\\templates\\server_group_after_client_0036"
+  }
+]

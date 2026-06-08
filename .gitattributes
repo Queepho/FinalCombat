@@ -1,0 +1,10 @@
+*.7z filter=lfs diff=lfs merge=lfs -text
+*.bin filter=lfs diff=lfs merge=lfs -text
+*.dat filter=lfs diff=lfs merge=lfs -text
+*.dll filter=lfs diff=lfs merge=lfs -text
+*.exe filter=lfs diff=lfs merge=lfs -text
+*.jpg filter=lfs diff=lfs merge=lfs -text
+*.ocx filter=lfs diff=lfs merge=lfs -text
+*.pde filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text

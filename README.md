@@ -7,10 +7,19 @@
 
 ## 玩家使用
 
-1. 安装 Python 3.10 或更高版本。启动器会优先查找 `C:\python3.13.13\python.exe`，找不到时使用系统 `PATH` 中的 `python`。
-2. 双击 `Start_FinalCombat_Local.bat`。
-3. 在窗口左侧点击 `Start local single-player`。
-4. 等待本地服务启动，游戏窗口会自动打开并进入单人地图。
+1. 确认仓库根目录下有 `game.7z.001` 和 `game.7z.002` 两个分卷文件。
+2. 使用 7-Zip 解压 `game.7z.001` 到当前仓库根目录。只需要解压 `.001`，7-Zip 会自动读取 `.002`。
+3. 解压完成后，根目录下应出现 `game/` 文件夹，并能看到 `game\FinalCombat.exe`。
+4. 安装 Python 3.10 或更高版本。启动器会优先查找 `C:\python3.13.13\python.exe`，找不到时使用系统 `PATH` 中的 `python`。
+5. 双击 `Start_FinalCombat_Local.bat`。
+6. 在窗口左侧点击 `Start local single-player`。
+7. 等待本地服务启动，游戏窗口会自动打开并进入单人地图。
+
+命令行解压示例：
+
+```powershell
+& "C:\Program Files\7-Zip\7z.exe" x .\game.7z.001 -o.\
+```
 
 如果窗口直接退出，请运行 `Start_FinalCombat_Local_Debug.bat` 查看错误。常见原因是本地端口已被旧进程占用。
 
@@ -23,7 +32,8 @@
 
 ## 目录结构
 
-- `game/`：游戏运行文件
+- `game.7z.001` / `game.7z.002`：游戏运行文件的 7-Zip 分卷压缩包
+- `game/`：解压后生成的游戏运行目录
 - `server_auth/`：最小 HTTP 认证服务
 - `server_proxy/`：TCP 代理层 Stub
 - `server_game/`：游戏层和频道层 Stub

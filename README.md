@@ -9,7 +9,7 @@ You can download it using the following methods:
 
 **Option 1 – Web Browser (may be unstable)**
 
-- URL: [https://queepho.com:444](url)
+- URL: https://queepho.com:444
 - Log in with the credentials below, then you will be redirected to the file transfer page.
 
 **Option 2 – SFTP Client (recommended)**
@@ -22,6 +22,10 @@ Use any SFTP client (e.g., XFTP, SecureFX, FileZilla):
 
 File path:
 `/Temp/游戏服务端包/FinalCombat_LR_ForFTP_20260611.7z`
+
+**Option 3 – Google Drive**
+
+https://drive.google.com/file/d/1RXIckfhv7zPFXKcK7kmdT8SJs_stTQKK/view?usp=sharing
 
 Please note that my server’s upload bandwidth is limited. Since the content is fully redistributable, **you (and anyone else) are more than welcome to mirror this file on your own distribution servers** to help others access it more easily.
 

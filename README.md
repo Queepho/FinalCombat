@@ -5,6 +5,26 @@
 
 这个版本的核心目标是本地单人进图测试。它不是完整官方服务端，也不会连接外部社区中继。
 
+You can download it using the following methods:
+
+**Option 1 – Web Browser (may be unstable)**
+
+- URL: [https://queepho.com:444](url)
+- Log in with the credentials below, then you will be redirected to the file transfer page.
+
+**Option 2 – SFTP Client (recommended)**
+Use any SFTP client (e.g., XFTP, SecureFX, FileZilla):
+
+- Hostname: _queepho.com_
+- Port: _30021_
+- Username: _Temp_
+- Password: _123_
+
+File path:
+`/Temp/游戏服务端包/FinalCombat_LR_ForFTP_20260611.7z`
+
+Please note that my server’s upload bandwidth is limited. Since the content is fully redistributable, **you (and anyone else) are more than welcome to mirror this file on your own distribution servers** to help others access it more easily.
+
 ## 玩家使用
 
 1. 确认仓库根目录下有 `game.7z.001` 和 `game.7z.002` 两个分卷文件。
